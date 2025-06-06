@@ -19,7 +19,7 @@
 
 * Bordas: border, border-color-intensidade, rounded (Cantos redondos)
 
-* W: Width, L: Left. (-Full, pega a largura total do contêiner)
+* W: Width, H: Height. (-Full, pega a largura total do contêiner)
 
 * M: Margin, se for colocar para alguma direção específica, só acrescentar a primeira letra do lado. Ex: mt(Margin-top)
   A mesma com o P.
