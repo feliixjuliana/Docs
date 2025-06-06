@@ -24,7 +24,7 @@
 * M: Margin, se for colocar para alguma direção específica, só acrescentar a primeira letra do lado. Ex: mt(Margin-top)
   A mesma com o P.
 
-* Sombras: Shadown
+* Sombras: Shadow
 
 * Imagem BackGround: bg-[url('/caminho/da/imagem.jpg')], bg-no-repeat
 
