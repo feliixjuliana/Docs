@@ -83,7 +83,7 @@
 * overflow-x-auto – rolagem só horizontal
 * overflow-y-auto – rolagem só vertical
 
-# Colunas
+# Colunas (Cards)
 
 | Exemplo 
 |-------------------------------------------------|
