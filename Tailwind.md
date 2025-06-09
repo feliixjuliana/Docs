@@ -1,6 +1,7 @@
 # Documentação Tailwind
 
 **-> Instalando a versão 3 do Tailwind:** npm install -D tailwindcss@3.3.5
+
 **-> Inicializando o Tailwind:** npx tailwindcss init -p
 [🔗 Tailwind](https://v2.tailwindcss.com/)
 
