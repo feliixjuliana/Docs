@@ -10,7 +10,7 @@
 
 **-> Flowbite componentes prontos:** https://flowbite.com/docs/components/card/ 
 
-# Propriedades do Css no Tailwind
+# Propriedades do CSS no Tailwind
 
 * Flexbox: flex justify-center items-center
 
